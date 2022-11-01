@@ -8,8 +8,6 @@
 bootcamp: [[https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados-cloud)]
 </br></br>
 
-`Cronograma do curso:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Cronograma%20do%20nan%20-%20BTC%20Bootcamp%20Engenheiro%20De%20Dados%2022-2.png)
-</br></br>
 
 
 Este bootcamp da [Xp Educação](https://www.xpeducacao.com.br/), (Instituto de Gestão e Tecnologia da Informação), tem como objetivo abordar de forma intensiva conceitos e práticas de engenharia de dados, habilitando o aluno para atuar profissionalmente na área.</br>
