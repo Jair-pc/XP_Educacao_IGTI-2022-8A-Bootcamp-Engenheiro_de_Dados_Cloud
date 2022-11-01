@@ -1,11 +1,8 @@
-[![](https://github.com/masedos/Bootcamp-Engenharia-de-Dados-Cloud/blob/main/logo.png)](https://www.linkedin.com/in/jairengdados/)
-
 [![](https://img.shields.io/badge/made%20by-jair-blue)](https://www.linkedin.com/in/jairengdados/)
 ![GitHub repo size](https://img.shields.io/badge/-engenheiro%20de%20dados-green)
 
 
-`Certificado:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Certificado.pdf)
-</br></br>
+
 `Duração:` 2 meses, 148 horas
 </br></br>
 bootcamp: [https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe)
