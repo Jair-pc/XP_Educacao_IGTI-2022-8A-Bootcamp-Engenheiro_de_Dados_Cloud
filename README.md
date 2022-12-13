@@ -9,7 +9,8 @@
 bootcamp: [[https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados-cloud](https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados-cloud)]
 </br></br>
 
-
+`Cronograma do curso:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-8A-Bootcamp-Engenheiro_de_Dados_Cloud/blob/master/Cronograma%20do%20EDC%20-%20BTC%20Bootcamp%20Engenheiro(a)%20De%20Dados%20(cloud)%2022-2.png)
+</br></br>
 
 Este bootcamp da [Xp Educação](https://www.xpeducacao.com.br/), (Instituto de Gestão e Tecnologia da Informação), tem como objetivo abordar de forma intensiva conceitos e práticas de engenharia de dados, habilitando o aluno para atuar profissionalmente na área.</br>
 Assim possibiliou que pudesse estudar através de desafios semanais sucessivos que evoluem em complexidade e abrangência.
